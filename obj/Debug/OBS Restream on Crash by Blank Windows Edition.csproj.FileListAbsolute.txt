@@ -1,0 +1,7 @@
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\bin\Debug\OBS Restream on Crash by Blank Windows Edition.exe.config
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\bin\Debug\OBS Restream on Crash by Blank Windows Edition.exe
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\bin\Debug\OBS Restream on Crash by Blank Windows Edition.pdb
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\obj\Debug\OBS Restream on Crash by Blank Windows Edition.csproj.AssemblyReference.cache
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\obj\Debug\OBS Restream on Crash by Blank Windows Edition.csproj.CoreCompileInputs.cache
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\obj\Debug\OBS Restream on Crash by Blank Windows Edition.exe
+C:\Users\Blank\source\repos\OBS Restream on Crash by Blank Windows Edition\obj\Debug\OBS Restream on Crash by Blank Windows Edition.pdb
