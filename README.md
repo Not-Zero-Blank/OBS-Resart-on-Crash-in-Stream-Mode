@@ -2,4 +2,5 @@
 
 This Program is Restarting Automatically your OBS in Stream Mode on Crash or if its got Closed.
 
-Its Not optimized its Copy pasted from other Projects from me but it works so i dont care have Fun. 
+Just start the Program it will Find OBS or will prompt you to open it Press Enter to Exit.
+![image](https://user-images.githubusercontent.com/66265360/134778698-6501d845-c28f-422f-a7c1-8dd465c81630.png)
